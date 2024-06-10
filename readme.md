@@ -1,3 +1,3 @@
 nouvelle ligne
-# nouvelle fonctionnalité
+# nouvelle fonction 1
 # fonction 2
